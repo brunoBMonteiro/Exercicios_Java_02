@@ -12,8 +12,5 @@ public class personSex {
         } else if(letter == 'M' || letter == 'm'){
             System.out.println("Sexo masculino");
         }
-
-
-
     }
 }
