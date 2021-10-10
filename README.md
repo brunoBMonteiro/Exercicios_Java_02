@@ -1,5 +1,5 @@
 # Exercicios_java
-Exercícios de Java da segunda lista do curso da Loiane Training
+Exercícios de Java da segunda lista do curso da Loiane Training Controles, Decisões e Loops
 
 <h1>Curso Java básico</h1>
 
